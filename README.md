@@ -8,4 +8,5 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | ------- | ------- |
 | [0183-customers-who-never-order](https://github.com/AjaySingh256/SQL-50/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/AjaySingh256/SQL-50/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/AjaySingh256/SQL-50/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
