@@ -7,6 +7,7 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/AjaySingh256/SQL-50/tree/main/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/AjaySingh256/SQL-50/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/AjaySingh256/SQL-50/tree/main/0183-customers-who-never-order/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/AjaySingh256/SQL-50/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AjaySingh256/SQL-50/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
