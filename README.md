@@ -19,5 +19,6 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [1179-reformat-department-table](https://github.com/AjaySingh256/SQL-50/tree/main/1179-reformat-department-table/) | Easy |
 | [1407-top-travellers](https://github.com/AjaySingh256/SQL-50/tree/main/1407-top-travellers/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AjaySingh256/SQL-50/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/AjaySingh256/SQL-50/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3436-find-valid-emails](https://github.com/AjaySingh256/SQL-50/tree/main/3436-find-valid-emails/) | Easy |
 <!---LeetCode Topics End-->
