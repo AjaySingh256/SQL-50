@@ -21,4 +21,5 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AjaySingh256/SQL-50/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/AjaySingh256/SQL-50/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3436-find-valid-emails](https://github.com/AjaySingh256/SQL-50/tree/main/3436-find-valid-emails/) | Easy |
+| [3570-find-books-with-no-available-copies](https://github.com/AjaySingh256/SQL-50/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 <!---LeetCode Topics End-->
