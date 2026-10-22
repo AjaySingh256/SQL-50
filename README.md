@@ -21,6 +21,7 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [1407-top-travellers](https://github.com/AjaySingh256/SQL-50/tree/main/1407-top-travellers/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AjaySingh256/SQL-50/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/AjaySingh256/SQL-50/tree/main/1795-rearrange-products-table/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/AjaySingh256/SQL-50/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/AjaySingh256/SQL-50/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/AjaySingh256/SQL-50/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3436-find-valid-emails](https://github.com/AjaySingh256/SQL-50/tree/main/3436-find-valid-emails/) | Easy |
