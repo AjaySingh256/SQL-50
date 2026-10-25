@@ -24,6 +24,7 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [1873-calculate-special-bonus](https://github.com/AjaySingh256/SQL-50/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/AjaySingh256/SQL-50/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/AjaySingh256/SQL-50/tree/main/1965-employees-with-missing-information/) | Easy |
+| [3421-find-students-who-improved](https://github.com/AjaySingh256/SQL-50/tree/main/3421-find-students-who-improved/) | Medium |
 | [3436-find-valid-emails](https://github.com/AjaySingh256/SQL-50/tree/main/3436-find-valid-emails/) | Easy |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/AjaySingh256/SQL-50/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/AjaySingh256/SQL-50/tree/main/3570-find-books-with-no-available-copies/) | Easy |
