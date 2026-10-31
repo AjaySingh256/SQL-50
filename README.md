@@ -17,6 +17,7 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [0608-tree-node](https://github.com/AjaySingh256/SQL-50/tree/main/0608-tree-node/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/AjaySingh256/SQL-50/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AjaySingh256/SQL-50/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/AjaySingh256/SQL-50/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1179-reformat-department-table](https://github.com/AjaySingh256/SQL-50/tree/main/1179-reformat-department-table/) | Easy |
 | [1407-top-travellers](https://github.com/AjaySingh256/SQL-50/tree/main/1407-top-travellers/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AjaySingh256/SQL-50/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
