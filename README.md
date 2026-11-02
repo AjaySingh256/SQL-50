@@ -20,6 +20,7 @@ A collection of 50 important SQL problems designed to strengthen SQL fundamental
 | [1084-sales-analysis-iii](https://github.com/AjaySingh256/SQL-50/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1179-reformat-department-table](https://github.com/AjaySingh256/SQL-50/tree/main/1179-reformat-department-table/) | Easy |
 | [1407-top-travellers](https://github.com/AjaySingh256/SQL-50/tree/main/1407-top-travellers/) | Easy |
+| [1587-bank-account-summary-ii](https://github.com/AjaySingh256/SQL-50/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/AjaySingh256/SQL-50/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/AjaySingh256/SQL-50/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/AjaySingh256/SQL-50/tree/main/1873-calculate-special-bonus/) | Easy |
